@@ -1,0 +1,52 @@
+.text-color{
+    color: #ff4800;
+}
+.bg-color{
+    background-color: #ff4800;
+}
+.head-color{
+    background-color: #F5F7FA;
+}
+.f-size{
+    font-size: 18px;
+    padding-right: 75px;
+}
+.f2-size{
+    width: 140%;
+}
+.f3-size{
+    font-size: 20px;
+    opacity: 50%;
+}
+.bg-color:hover{
+    background-color: #d93d00;
+}
+.my-nav-link{
+    font-weight: bold;
+}
+.my-nav-link:hover {
+    background-color: #ff4800;
+    color: white;
+}
+.banner-section {
+    background-image: url("../img/slider01.jpg");
+    height: 800px;
+}
+.form-card{
+    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+}
+.b-color{
+    background-color: #1ABB9C;
+}
+.bg-light1{
+    background-color: #f2f5f7;
+}
+.bg-footer{
+    background-color: #2F4052;
+}
+.bg-footer1{
+    background-color: #283645;
+}
